@@ -1,0 +1,9 @@
+C:\Users\pmsal\source\repos\RageMP-VSupport\RageMP-VSupport\bin\Debug\RageMP-VSupport.exe
+C:\Users\pmsal\source\repos\RageMP-VSupport\RageMP-VSupport\bin\Debug\RageMP-VSupport.pdb
+C:\Users\pmsal\source\repos\RageMP-VSupport\RageMP-VSupport\obj\Debug\RageMP-VSupport.csprojAssemblyReference.cache
+C:\Users\pmsal\source\repos\RageMP-VSupport\RageMP-VSupport\obj\Debug\RageMP_VSupport.Form1.resources
+C:\Users\pmsal\source\repos\RageMP-VSupport\RageMP-VSupport\obj\Debug\RageMP_VSupport.Properties.Resources.resources
+C:\Users\pmsal\source\repos\RageMP-VSupport\RageMP-VSupport\obj\Debug\RageMP-VSupport.csproj.GenerateResource.cache
+C:\Users\pmsal\source\repos\RageMP-VSupport\RageMP-VSupport\obj\Debug\RageMP-VSupport.csproj.CoreCompileInputs.cache
+C:\Users\pmsal\source\repos\RageMP-VSupport\RageMP-VSupport\obj\Debug\RageMP-VSupport.exe
+C:\Users\pmsal\source\repos\RageMP-VSupport\RageMP-VSupport\obj\Debug\RageMP-VSupport.pdb

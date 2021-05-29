@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CDataFileMgr__ContentsOfDataFileXml>
+	<disabledFiles />
+	<includedXmlFiles />
+	<includedDataFiles />
+	<dataFiles>
+		<!--vehicles<Item>
+			<filename>dlc_template:/data/vehicles.meta</filename>
+			<fileType>VEHICLE_METADATA_FILE</fileType>
+			<overlay value="false" />
+			<disabled value="true" />
+			<persistent value="false" />
+		</Item>vehicles-->
+		<!--carcols<Item>
+			<filename>dlc_template:/data/carcols.meta</filename>
+			<fileType>CARCOLS_FILE</fileType>
+			<overlay value="false" />
+			<disabled value="true" />
+			<persistent value="false" />
+		</Item>carcols-->
+		<!--carvariations<Item>
+			<filename>dlc_template:/data/carvariations.meta</filename>
+			<fileType>VEHICLE_VARIATION_FILE</fileType>
+			<overlay value="false" />
+			<disabled value="true" />
+			<persistent value="false" />
+		</Item>-->
+		<!--handling<Item>
+			<filename>dlc_template:/data/handling.meta</filename>
+			<fileType>HANDLING_FILE</fileType>
+			<overlay value="false" />
+			<disabled value="true" />
+			<persistent value="false" />
+		</Item>handling-->
+		<!--dlctext<Item>
+			<filename>dlc_template:/data/dlctext.meta</filename>
+			<fileType>TEXTFILE_METAFILE</fileType>
+			<overlay value="false" />
+			<disabled value="true" />
+			<persistent value="false" />
+		</Item>-->
+		<Item>
+			<filename>dlc_template:/%PLATFORM%/vehicles.rpf</filename>
+			<fileType>RPF_FILE</fileType>
+			<overlay value="false" />
+			<disabled value="true" />
+			<persistent value="true" />
+		</Item>
+	</dataFiles>
+	<contentChangeSets>
+		<Item>
+			<changeSetName>TEMPLATE_AUTOGEN</changeSetName>
+			<filesToDisable />
+			<filesToEnable>
+				<!--<Item>dlc_template:/data/vehicles.meta</Item>-->
+				<!--<Item>dlc_template:/data/carcols.meta</Item>-->
+				<!--<Item>dlc_template:/data/carvariations.meta</Item>-->
+				<!--<Item>dlc_template:/data/handling.meta</Item>-->
+				<!--<Item>dlc_template:/data/dlctext.meta</Item>-->
+				<Item>dlc_template:/%PLATFORM%/vehicles.rpf</Item>
+			</filesToEnable>
+			<txdToLoad />
+			<txdToUnload />
+			<residentResources />
+			<unregisterResources />
+		</Item>
+	</contentChangeSets>
+	<patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

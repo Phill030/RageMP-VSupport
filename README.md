@@ -12,7 +12,8 @@ I created this tool in ~ 18 hours so it might have bugs. If you see something wr
 
 
 ## Setup
-To run this project, you need to have .NET installed
++ To run this project, you need to have .NET installed
++ You need to have admin-rights to read/write data!
 
 1. Open
 2. Select Save directory
